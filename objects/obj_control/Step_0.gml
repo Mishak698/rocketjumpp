@@ -5,3 +5,6 @@ if (global.gamestart && !started) {
 	alarm[0] = irandom_range(SpawnTimeMin, SpawnTimeMax);
 	started = true;
 }
+if global.gameover {
+	audio_stop_all()
+}
