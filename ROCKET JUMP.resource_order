@@ -30,6 +30,5 @@
     {"name":"r_menu","order":1,"path":"rooms/r_menu/r_menu.yy",},
     {"name":"obj_obstacle","order":2,"path":"objects/obj_obstacle/obj_obstacle.yy",},
     {"name":"obj_control","order":3,"path":"objects/obj_control/obj_control.yy",},
-    {"name":"obj_button_help","order":7,"path":"objects/obj_button_help/obj_button_help.yy",},
   ],
 }

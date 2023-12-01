@@ -51,7 +51,6 @@
     {"id":{"name":"r_menu","path":"rooms/r_menu/r_menu.yy",},},
     {"id":{"name":"obj_obstacle","path":"objects/obj_obstacle/obj_obstacle.yy",},},
     {"id":{"name":"obj_control","path":"objects/obj_control/obj_control.yy",},},
-    {"id":{"name":"obj_button_help","path":"objects/obj_button_help/obj_button_help.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
